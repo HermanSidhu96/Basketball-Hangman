@@ -1,7 +1,7 @@
 body {
     background-color: #cccccc;
     background-image: url(https://i.imgur.com/CGp6n6C.png); margin: auto 0;
-    /* text-align: center; */
+    text-align: center;
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
 }
 
 .container  {
-    margin-top: 480px;
+    margin-top: 210px;
 }
 
 section {
@@ -56,4 +56,15 @@ p   {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     font-size: 15px;
+}
+
+.dash   {
+    color: salmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+img{
+    height: 285x;
+    width: 240px;
 }
