@@ -18,3 +18,6 @@ Basketball Hangman is a 1 player game in which the player will guess a randomize
 * 2 player
 * Audio
 * Loadup menu
+
+## Game link
+https://hermansidhu96.github.io/Basketball-Hangman/
