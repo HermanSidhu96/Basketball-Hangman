@@ -7,7 +7,7 @@
 //     current_player = "Baller"
 //   }
 //words relate to div class "words"
-let words = ['torontoraptors', 'funguy', 'kobebryant', 'michaeljordan', 'lebronjames', 'drjamesnaismith', 'bostonceltics', 'lakers', 'jrsmith', 'demarderozan', 'shaq', 'charlesbarkley', 'satnamsingh', 'bryantreeves', 'chrisbosh', 'duke', 'demarcuscousins', 'magicjohnson', 'philjackson', 'nicknurse', 'markcuban', 'giannisantetokounmpo', 'andrewwiggins', 'fredvanvleet', 'pascalsiakam', 'miamiheat','chicagobulls','benwallace','nba','nbaontnt','shaqtinafool','adamsilver','davidstern','stephcurry','kevindurant','kawhileonard','boardmangetspaid','threpointer','buzzerbeater','slamdunk','derrickrose']
+let words = ['raps', 'kawhi', 'kobe', 'jordan', 'mj', 'lebron', 'kingjames', 'champions', 'finals', 'pacers', 'hawks', 'durant', 'nets', 'kyrie', 'lakers', 'jrsmith', 'derozan', 'shaq', 'barkley', 'bosh', 'duke', 'dunk', 'shot', 'layup', 'block', 'foul', 'steal', 'tmac', 'drose', 'magic', 'bucks', 'heat', 'coach',  'twolves', 'hornets', 'pelicans', 'nba','slamdunk','carmelo', 'rebound', 'isolate', 'bankshot', 'harden', 'lowry', 'wizards', 'rockets','blazers','kings','gobert', 'zion', 'morant', 'mvp', 'roty', 'birdman', 'vino', 'buckets', 'psychot','elchapo','juancho','gmoney','bigshot','supermandwight','superman','iblocka','bigz','lbj','joker','jokic','goat','shaqfu','shaqtin','bigshaqtus','bigcountry','thebigo','stackhouse','cjmiles','bigkat','wade','flash','bird','unclep']
 // will choose random word out of words
 let word = ""
 let wrongGuessCounter = 0;
